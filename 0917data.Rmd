@@ -1,0 +1,14 @@
+---
+title: "data import"
+output: github_document
+date: "2024-09-17"
+---
+
+
+this repo has code from the first date file
+```{r setup, echo=FALSE, message=FALSE}
+library(tidyverse)
+```
+ this document will show how to import data.
+
+
